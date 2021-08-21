@@ -1,0 +1,49 @@
+.div01{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+h2,h4{
+    text-align: center;
+}
+
+p{margin: 25px 50px 75px 100px;}
+
+.p01{
+    border: solid 4px red;
+    border-radius: 10px;
+    background-color: red;
+}
+
+.p02{
+    border: solid 2px blue;
+    background-color: blue;
+}
+
+.p03{
+    border: dashed 1px pink;
+    background-color: pink;
+}
+
+.p04{
+    border: dotted 4px green;
+    background-color: green;
+}
+
+.p05{
+    border: double 10px yellow;
+    background-color: yellow;
+}
+
+.p06{
+    border: double 4px brown;
+    background-color: brown;
+}
+
+.p07{
+    border: solid crimson;
+    background-color: crimson;
+    border-width: 1px 8px 2px 8px;
+}
